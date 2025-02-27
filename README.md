@@ -1,0 +1,1 @@
+This project demonstrates the application of web scraping in a financial context by pulling daily FX data from the Bank of Canada website, which provides a list of 23 popular currency pairs involving the Canadian Dollar.
